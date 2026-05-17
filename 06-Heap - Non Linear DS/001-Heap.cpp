@@ -2,7 +2,6 @@
 using namespace std;
 
 class MaxHeap{
-
     public:
         vector<int> arr;
 
